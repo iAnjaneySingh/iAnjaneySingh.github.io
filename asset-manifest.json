@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iAnjaneySingh/iAnjaneySingh.github.io/static/css/main.cfc4f5b1.chunk.css",
+    "main.js": "/iAnjaneySingh/iAnjaneySingh.github.io/static/js/main.2f6665ce.chunk.js",
+    "main.js.map": "/iAnjaneySingh/iAnjaneySingh.github.io/static/js/main.2f6665ce.chunk.js.map",
+    "runtime-main.js": "/iAnjaneySingh/iAnjaneySingh.github.io/static/js/runtime-main.0f87f993.js",
+    "runtime-main.js.map": "/iAnjaneySingh/iAnjaneySingh.github.io/static/js/runtime-main.0f87f993.js.map",
+    "static/js/2.25134c0a.chunk.js": "/iAnjaneySingh/iAnjaneySingh.github.io/static/js/2.25134c0a.chunk.js",
+    "static/js/2.25134c0a.chunk.js.map": "/iAnjaneySingh/iAnjaneySingh.github.io/static/js/2.25134c0a.chunk.js.map",
+    "index.html": "/iAnjaneySingh/iAnjaneySingh.github.io/index.html",
+    "precache-manifest.33516c1ef290a3c05150df8eeac6a3e1.js": "/iAnjaneySingh/iAnjaneySingh.github.io/precache-manifest.33516c1ef290a3c05150df8eeac6a3e1.js",
+    "service-worker.js": "/iAnjaneySingh/iAnjaneySingh.github.io/service-worker.js",
+    "static/css/main.cfc4f5b1.chunk.css.map": "/iAnjaneySingh/iAnjaneySingh.github.io/static/css/main.cfc4f5b1.chunk.css.map",
+    "static/js/2.25134c0a.chunk.js.LICENSE.txt": "/iAnjaneySingh/iAnjaneySingh.github.io/static/js/2.25134c0a.chunk.js.LICENSE.txt",
+    "static/media/5.jpg": "/iAnjaneySingh/iAnjaneySingh.github.io/static/media/5.faff0439.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f87f993.js",
+    "static/js/2.25134c0a.chunk.js",
+    "static/css/main.cfc4f5b1.chunk.css",
+    "static/js/main.2f6665ce.chunk.js"
+  ]
+}
